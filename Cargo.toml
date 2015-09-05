@@ -1,0 +1,4 @@
+[package]
+name = "obon"
+version = "0.1.0"
+authors = ["mwardle <mwardle@robinsage.com>"]
